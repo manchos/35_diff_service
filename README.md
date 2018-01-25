@@ -5,6 +5,8 @@
 
 # Project Goals
 
+htmldiff
+
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
 
 Тебе приходилось делать git diff? Вот теперь тебе надо сделать сервис, который будет делать диф для юридических документов, свёрстанных в html (не спрашивай, почему так сложилось).
